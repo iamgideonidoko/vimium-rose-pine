@@ -1,5 +1,5 @@
 /* Rosé Pine _variant Palette */
-/* Build: npx @rose-pine/build@latest -s false -p _ -t template.css */
+/* Build: npx @rose-pine/build@latest -o themes -s false -p _ -t template.css */
 
 :root {
   --rp-rose: _rose;
