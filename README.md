@@ -10,11 +10,27 @@
 
 ## Variants
 
-| Variant               | Description               |
-| --------------------- | ------------------------- |
-| 🌲 **Rosé Pine**      | Dark, warm base           |
-| 🌙 **Rosé Pine Moon** | Dark, cooler alternative  |
-| 🌅 **Rosé Pine Dawn** | Light, soft morning tones |
+### 🌲 Rosé Pine <small>(Dark, warm base)</small>
+
+![Preview of Rosé Pine](./assets/rose-pine.png)
+
+### 🌅 Rosé Pine Dawn <small>(Light, soft morning tones)</small>
+
+<details>
+<summary>Click to expand preview </summary>
+
+![Preview of Rosé Pine Dawn](./assets/rose-pine-dawn.png)
+
+</details>
+
+### 🌙 Rosé Pine Moon <small>(Dark, cooler alternative)</small>
+
+<details>
+<summary>Click to expand preview </summary>
+
+![Preview of Rosé Pine Moon](./assets/rose-pine-moon.png)
+
+</details>
 
 ## Color Roles
 
