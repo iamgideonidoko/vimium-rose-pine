@@ -1,7 +1,8 @@
-/* Rosé Pine Dawn Palette */
+/* Rosé Pine _variant Palette */
+/* Build: npx @rose-pine/build@latest -s false -p _ -t template.css */
 
 :root {
-  --rp-rose: #d7827a;
+  --rp-rose: #d7827e;
   --rp-gold: #ea9d34;
   --rp-foam: #56949f;
   --rp-pine: #286983;
@@ -25,7 +26,7 @@
 #vimium-hint-marker-container div.internal-vimium-hint-marker,
 #vimium-hint-marker-container div.vimiumHintMarker {
     padding: 3px 4px;
-    background: var(--rp-pine);
+    background: var(--rp-foam);
     border: 1;
     border-color: var(--rp-base);
     box-shadow: none;
